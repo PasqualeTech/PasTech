@@ -1,8 +1,6 @@
-<!-- 🇮🇹 Italiano | 🇬🇧 English below -->
-
 <div align="center">
 
-# 👋 Ciao, sono Pasquale
+#  Ciao, sono Pasquale
 
 ### 💻 Junior Developer | 🔐 Cybersecurity 
 
